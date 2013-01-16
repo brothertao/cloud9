@@ -3,6 +3,7 @@
  * 自己喜欢的一些功能，最好能以插件的形式出现
 # 规范
  * 不破坏底层代码
+
 **Issues on c9.io** If you have questions regarding the hosted service at [c9.io](http://c9.io)
 including issues with accounts or payments,
 please file them at [support.c9.io](http://support.cloud9ide.com/home) rather than as a
